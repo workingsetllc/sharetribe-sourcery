@@ -13,7 +13,7 @@ namely server side rendering and a custom CSS setup.
 > [Flex Docs](https://www.sharetribe.com/docs/ftw-introduction/how-to-customize-ftw/#choose-a-template)
 
 ## Quick start
-
+###
 If you just want to get the app running quickly to test it out, first install
 [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/), and follow along:
 
